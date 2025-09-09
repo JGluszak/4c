@@ -62,3 +62,11 @@ $(function () {
     $('h2').before('<img src="best5.png">');
     $('img').after('<hr><br>');
 });
+
+$(function () {
+    $('a').eq(1).addClass('inny_link');
+    $('a').eq(2).removeClass('link');
+    $('a').eq(3).removeClass('link');
+    $('a').eq(2).addClass('jeszcze_inny_link');
+
+});
