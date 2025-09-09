@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <title>zad2</title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <label>
+        <input type="checkbox" id="akceptuje"> Akceptuję
+    </label>
+    <button id="wyslij" disabled>Wyślij</button>
+    <script src="jquery-3.7.1.min.js"></script>
+    <script>
+        $('#akceptuje').change(function() {
+            if ($(this).is(':checked')) {
+                $('#wyslij').prop('disabled', false);
+            } else {
+                $('#wyslij').prop('disabled', true);
+            }
+        });
+    </script>
+</body>
+
+</html>
