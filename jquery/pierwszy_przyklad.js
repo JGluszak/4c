@@ -56,3 +56,9 @@ $(function () {
     $('li').eq(2).remove();
     $('ul').prepend('<li>' + $zmiana + '</li>');
 });
+
+
+$(function () {
+    $('h2').before('<img src="best5.png">');
+    $('img').after('<hr><br>');
+});
