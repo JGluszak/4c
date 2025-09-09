@@ -1,0 +1,14 @@
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\bin\Debug\netcoreapp3.1\wejsciewyjscie.exe
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\bin\Debug\netcoreapp3.1\wejsciewyjscie.deps.json
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\bin\Debug\netcoreapp3.1\wejsciewyjscie.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\bin\Debug\netcoreapp3.1\wejsciewyjscie.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\bin\Debug\netcoreapp3.1\wejsciewyjscie.dll
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\bin\Debug\netcoreapp3.1\wejsciewyjscie.pdb
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.csproj.AssemblyReference.cache
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.dll
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.pdb
+C:\Users\4C13\Desktop\4c\c#\wejsciewyjscie\wejsciewyjscie\obj\Debug\netcoreapp3.1\wejsciewyjscie.genruntimeconfig.cache
