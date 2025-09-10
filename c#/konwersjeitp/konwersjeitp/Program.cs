@@ -74,9 +74,9 @@ namespace konwersjeitp
             Console.Write("Podaj gdzie jestes: ");
             string lok = Console.ReadLine();
 
-            if (lok == "" || lok == " ")
+            if (lok == "" || lok == " "|| int.TryParse(lok, out _))
             {
-                Console.WriteLine("jestes w pizdize");
+                Console.WriteLine("jestes nigdzie");
             }
             else
             {

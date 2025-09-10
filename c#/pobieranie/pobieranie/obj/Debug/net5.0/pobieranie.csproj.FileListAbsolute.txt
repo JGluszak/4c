@@ -1,0 +1,16 @@
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\pobieranie.exe
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\pobieranie.deps.json
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\pobieranie.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\pobieranie.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\pobieranie.dll
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\ref\pobieranie.dll
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\bin\Debug\net5.0\pobieranie.pdb
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.csproj.AssemblyReference.cache
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.dll
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\ref\pobieranie.dll
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.pdb
+C:\Users\4C13\Desktop\4c\c#\pobieranie\pobieranie\obj\Debug\net5.0\pobieranie.genruntimeconfig.cache
