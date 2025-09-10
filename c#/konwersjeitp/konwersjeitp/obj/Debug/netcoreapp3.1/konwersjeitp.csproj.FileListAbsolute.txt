@@ -1,0 +1,14 @@
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\bin\Debug\netcoreapp3.1\konwersjeitp.exe
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\bin\Debug\netcoreapp3.1\konwersjeitp.deps.json
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\bin\Debug\netcoreapp3.1\konwersjeitp.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\bin\Debug\netcoreapp3.1\konwersjeitp.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\bin\Debug\netcoreapp3.1\konwersjeitp.dll
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\bin\Debug\netcoreapp3.1\konwersjeitp.pdb
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.csproj.AssemblyReference.cache
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.dll
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.pdb
+C:\Users\4C13\Desktop\4c\c#\konwersjeitp\konwersjeitp\obj\Debug\netcoreapp3.1\konwersjeitp.genruntimeconfig.cache

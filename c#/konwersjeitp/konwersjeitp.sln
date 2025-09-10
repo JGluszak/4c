@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konwersjeitp", "konwersjeitp\konwersjeitp.csproj", "{C5E7B12A-4446-476C-9379-69871F7BCD71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E7B12A-4446-476C-9379-69871F7BCD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E7B12A-4446-476C-9379-69871F7BCD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E7B12A-4446-476C-9379-69871F7BCD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E7B12A-4446-476C-9379-69871F7BCD71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02EFFA1C-EF22-42BD-A133-C9BAE9477303}
+	EndGlobalSection
+EndGlobal
