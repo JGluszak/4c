@@ -1,0 +1,16 @@
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\zadaniacs.exe
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\zadaniacs.deps.json
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\zadaniacs.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\zadaniacs.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\zadaniacs.dll
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\ref\zadaniacs.dll
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\bin\Debug\net5.0\zadaniacs.pdb
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.dll
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\ref\zadaniacs.dll
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.pdb
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.genruntimeconfig.cache
+C:\Users\4C13\Desktop\4c\c#\zadaniacs\zadaniacs\obj\Debug\net5.0\zadaniacs.csproj.AssemblyReference.cache
