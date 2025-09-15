@@ -130,7 +130,6 @@ namespace zadaniacs
                 default:
                     Console.WriteLine("Liczba inną niż 1 4 8 lub 2 3 7");
                     break;
-
             }
         }
     }
