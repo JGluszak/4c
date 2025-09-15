@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>jQuery - zdarzenia</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styl.css" />
+    <script src="jquery-3.7.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            let i = 0;
+            let n = 0;
+            $('#tekst').on('scroll', function () {
+                $('span').eq(0).text(i += 1);
+            });
+            $(window).on('resize', function () {
+                $('span').eq(1).text(n += 1);
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="page">
+            Tekst: 
+            <textarea id="tekst" rows="4" cols="20">Lorem ipsum dolor sit amet, consectetur adipiscing 
+                elit. Vivamus semper commodo nibh, vel mattis magna mattis id. Sed neque 
+                tellus, cursus quis ultrices ac, sodales id lacus. Nullam feugiat, enim nec 
+                blandit porttitor, lacus mi venenatis felis, et sodales velit lectus vitae 
+                tortor.
+            </textarea><br>
+            <p>Licznik użycia metody .scroll(): <span>0</span></p>
+            <p>Licznik zmian rozmiaru okna: <span>0</span></p>
+        </div>
+    </div>
+</body>
+
+</html>
