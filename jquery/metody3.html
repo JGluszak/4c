@@ -1,0 +1,36 @@
+ <html>
+ <head>
+    <title>jQuery - zdarzenia</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styl1.css" />
+    <script src="jquery-3.7.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('input').on('keydown', function() {
+                $('input').css({
+                    'background-color': 'black',
+                    'color': 'white'
+                });
+            });
+            $('input').on('keyup', function() {
+                $('input').css({
+                    'background-color': 'white',
+                    'color': 'black'
+                });
+            });
+            let i = 0;
+            $('input').keypress(function() {
+                $('span').text(i += 1);
+            });
+        });
+    </script>
+ </head>
+ <body>
+    <div id="container">
+        <div id="page">
+            Wpisz dowolny tekst: <input type="text"><br>
+            <p>Liczba wszystkich naciśnięć klawiszy: <span>0</span></p>
+        </div>
+    </div>
+ </body>
+ </html>

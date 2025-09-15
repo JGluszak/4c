@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <title>jQuery - zdarzenia</title>
+    <meta charset="utf-8" />
+     <style>
+        #zew {
+            width: 80%;
+            height: 200px;
+            margin: 0 auto;
+            background-color: #ccccff;
+        }
+
+        #wew {
+            width: 60%;
+            height: 100px;
+            background-color: blue;
+            margin: 30px auto;
+        }
+
+        span {
+            font-size: 22px;
+        }
+    </style>
+    <script src="jquery-3.7.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            let i = 0;
+            let n = 0;
+            $('#wew').mouseover(function () {
+                i += 1;
+                $('#komunikat').text('Najechano na prostokąt ' + i + ' razy');
+            }).mouseout(function () {
+                $('#komunikat').text('Opuszczono obszar prostokąta');
+            });
+            $('#wew').click(function () {
+                n += 1;
+                $('#komunikat').text('Kliknięto prostokąt ' + n + ' razy');
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="zew">
+            <span id="komunikat">Najedź kursorem na niebieski prostokąt,
+                kliknij i opuść jego obszar.</span>
+            <div id="wew">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
