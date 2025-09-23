@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formularz kontaktowy</title>
+    <meta charset="utf-8" />
+    <style>
+        body { font-family: Arial, sans-serif; }
+        #container { width: 400px; margin: 30px auto; }
+        label { display: block; margin-top: 10px; }
+        textarea { width: 100%; height: 80px; }
+        select, input[type="text"], input[type="email"] { width: 100%; }
+        #podsumowanie { margin-top: 20px; color: #007700; }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function () {
+            $('#kontaktForm').on('submit', function (e) {
+                e.preventDefault();
+                const login = $('#login').val();
+                const email = $('#email').val();
+                const dzial = $('#dzial').val();
+                const opis = $('#opis').val();
+                $('#podsumowanie').html(
+                    '<b>Podsumowanie zgłoszenia:</b><br>' +
+                    'Login: ' + login + '<br>' +
+                    'E-mail: ' + email + '<br>' +
+                    'Dział: ' + dzial + '<br>' +
+                    'Opis: ' + opis
+                );
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="container">
+        <h2>Formularz kontaktowy</h2>
+        <form id="kontaktForm">
+            <label for="login">Login użytkownika:</label>
+            <input type="text" id="login" name="login" required>
+
+            <label for="email">Adres e-mail:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="dzial">Wybierz dział:</label>
+            <select id="dzial" name="dzial">
+                <option>Dział techniczny</option>
+                <option>Dział księgowy</option>
+                <option>Inne</option>
+            </select>
+
+            <label for="opis">Opis / Uwagi:</label>
+            <textarea id="opis" name="opis"></textarea>
+
+            <button type="submit">Wyślij</button>
+        </form>
+        <div id="podsumowanie"></div>
+    </div>
+</body>
+</html>
