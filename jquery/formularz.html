@@ -1,0 +1,104 @@
+<head>
+    <title>jQuery - formularz</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styl.css" />
+    <style>
+        h4 {
+            text-align: left;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        // Formularz — pole tekstowe
+        $(function () {
+            $('input').on('keyup', function () {
+                const wartosc = $(this).val();
+                $('p').eq(0).text(wartosc);
+            }).keyup();
+            // Pole listy jednokrotnego wyboru
+            function wyswietlPojedycznyWybor() {
+                const pojedynczyWybor = $('#tylkoJeden').val();
+                $('p').eq(1).text('Twój wybór to: ' + pojedynczyWybor);
+            }
+            $('select').change(wyswietlPojedycznyWybor);
+            wyswietlPojedycznyWybor();
+            // Formularz z polami radio
+            function wyborJezyka() {
+                const jakiJezyk = $('#tylkoJeden').val();
+                if (jakiJezyk == 'Stron internetowych') {
+                    $('#log').text('');
+                    $('#ulubionyJezyk').html('PHP <input type="radio" name="www" value="PHP"> JavaScript <input type="radio" name="www" value="JavaScript"> ');
+                    $('input[name="www"]').on('click', function () {
+                        $('#log').html('Wybrano: ' + $('input[name="www"]:checked').val());
+                    });
+                }
+                // Formularz z polami checkbox
+                else if (jakiJezyk == 'Aplikacji desktopowych') {
+                    $('#log').text('');
+                    $('#ulubionyJezyk').html('C++ <input type="checkbox" name="desktop" value="C++"> Java <input type="checkbox" name="desktop" value="Java"> <button type="button" id="sprawdzZaznaczenie">Sprawdź zaznaczenie</button>');
+ // Komunikat w oknie alert
+                    $('#ulubionyJezyk').off('click', '#sprawdzZaznaczenie').on('click', '#sprawdzZaznaczenie', function () {
+                        const favorite = [];
+                        $.each($('#ulubionyJezyk input[name="desktop"]:checked'), function () {
+                            favorite.push($(this).val());
+                        });
+                        const ilosc = function () {
+                            const n = $('input[name="desktop"]:checked').length;
+                            const x = (n === 1 ? ' Moim ulubionym językiem jest: ' : ' Moimi ulubionymi językami są: ');
+                            alert(x + favorite.join(', '));
+                        };
+                        ilosc();
+                    });
+                }
+                else {
+                    // Wyświetlenie rysunku
+                    $('#log').text('');
+                    $('#ulubionyJezyk').html(' <img src="best5.png">');
+                }
+            }
+            $('select').change(wyborJezyka);
+            wyborJezyka();
+            // Pole listy wielokrotnego wyboru
+            function wyswietlWyborWielokrotny() {
+                const wielokrotnyWybor = $('#wiele').val();
+                $('p').eq(2).text('Twój wybór to: ' + (wielokrotnyWybor ? wielokrotnyWybor.join(', ') : ''));
+            }
+            $('select').change(wyswietlWyborWielokrotny);
+            wyswietlWyborWielokrotny();
+        });
+    </script>
+</head>
+</head>
+
+<body>
+    <div id="container">
+        <div id="page">
+            <h4>Pole formularza input typu text:</h4>
+            <input type="text" value="przykładowy tekst">
+            <p></p>
+            <hr>
+            <h4>Pole jednokrotnego wyboru:</h4>
+            Języki programowania wykorzystujesz do tworzenia: <select id="tylkoJeden">
+                <option>Stron internetowych</option>
+                <option>Aplikacji desktopowych</option>
+                <option>Aplikacji mobilnych</option>
+                <option>Inne</option>
+            </select>
+            <p></p>
+            <hr>
+            <div id="ulubionyJezyk"></div>
+            <div id="log"></div>
+            <hr>
+            <h4>Pole wielokrotnego wyboru:</h4>
+            Pytanie pozostaje to samo, lecz można wybrać kilka opcji: <br><br>
+            <select id="wiele" multiple>
+                <option>Stron internetowych</option>
+                <option>Aplikacji desktopowych</option>
+                <option>Aplikacji mobilnych</option>
+                <option>Inne</option>
+            </select>
+            <p></p>
+            <hr>
+        </div>
+    </div>
+</body>
