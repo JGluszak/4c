@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Zad1.6</title>
+  <style>
+    #mojAkapit {
+      width: 300px;
+      background-color: rgb(180, 221, 182);
+      border: 3px solid rgb(173, 28, 108);
+      font-size: 30px;
+      padding: 15px;
+      margin-bottom: 20px;
+      transition: all 0.2s ease;
+    }
+    button {
+      margin-right: 10px;
+      padding: 8px 15px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+  <script src="jquery-3.7.1.min.js"></script>
+</head>
+<body>
+  <p id="mojAkapit">Cześć, mam na imię <strong>KUBA</strong>. To jest mój akapit do animacji.</p>
+
+  <button id="start">Start</button>
+  <button id="reset">Przywróć</button>
+
+  <script>
+    $(document).ready(function () {
+      let startStyles = {
+        width: $("#mojAkapit").css("width"),
+        fontSize: $("#mojAkapit").css("font-size"),
+        borderWidth: $("#mojAkapit").css("border-width")
+      };
+      $("#start").click(function () {
+        $("#mojAkapit").animate({
+          width: "600px",
+          fontSize: "28px",
+          borderWidth: "10px"
+        }, 1500);
+      });
+      $("#reset").click(function () {
+        $("#mojAkapit").animate({
+          width: startStyles.width,
+          fontSize: startStyles.fontSize,
+          borderWidth: startStyles.borderWidth
+        }, 800);
+      });
+    });
+  </script>
+</body>
+
+</html>

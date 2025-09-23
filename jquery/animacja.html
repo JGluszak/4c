@@ -1,0 +1,74 @@
+<html>
+
+<head>
+    <title>jQuery - zdarzenia</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styl.css" />
+    <style>
+        #pierwszy {
+            background: blue;
+            height: 60px;
+            width: 60px;
+            border-radius: 100px;
+            left: 50px;
+            top: 200px;
+            position: absolute;
+        }
+
+        #drugi {
+            background: red;
+            height: 60px;
+            width: 60px;
+            border-radius: 100px;
+            left: 50px;
+            top: 300px;
+            position: absolute;
+        }
+    </style>
+    <script src="jquery-3.7.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#start1').on('click', function () {
+                const div = $('#pierwszy');
+                div.animate({ 'left': '+=300px' }, 'slow');
+                div.animate({ 'top': '+=50px' }, 'slow');
+                div.animate({ 'left': '+=700px' }, 600);
+            });
+            $('#start2').on('click', function () {
+                const div = $('#drugi');
+                div.animate({ 'left': '+=300px' }, 'slow');
+                div.animate({ 'top': '+=50px' }, 'slow');
+                div.animate({ 'left': '+=700px' }, 800);
+            });
+            $('#start3').on('click', function () {
+                $('#start1, #start2').click();
+            });
+            $('#reset').on('click', function () {
+                $('#log').text('');
+                $('#pierwszy, #drugi').css({ left: '', top: '' });
+            });
+            $('#stop').click(function () {
+                const kulka = $('.kulka');
+                kulka.clearQueue();
+                kulka.stop();
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="page">
+            <button id="start1">&raquo; Start niebieska</button>
+            <button id="start2">&raquo; Start czerwona</button>
+            <button id="start3">&raquo; Start obie</button>
+            <button id="stop">&raquo; Stop</button>
+            <button id="reset">&raquo; Od nowa</button>
+            <div id="pierwszy" class="kulka"></div>
+            <div id="drugi" class="kulka"></div>
+            <div id="log"></div>
+        </div>
+    </div>
+</body>
+
+</html>

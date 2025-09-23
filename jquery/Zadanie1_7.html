@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Zad1.7</title>
+  <style>
+    #kwadrat {
+      width: 200px;
+      height: 200px;
+      background-color: rgb(255, 38, 0);
+      position: relative;
+      margin-top: 20px;
+    }
+
+    button {
+      margin-right: 10px;
+      padding: 8px 15px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+  <script src="jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+  <button id="prawo">W prawo</button>
+  <button id="lewo">W lewo</button>
+
+  <div id="kwadrat"></div>
+
+  <script>
+    $(document).ready(function () {
+      $("#prawo").click(function () {
+        $("#kwadrat").animate({
+          left: "+=80px"
+        }, 400);
+      });
+      $("#lewo").click(function () {
+        $("#kwadrat").animate({
+          left: "-=80px"
+        }, 400);
+      });
+    });
+  </script>
+</body>
+
+</html>
