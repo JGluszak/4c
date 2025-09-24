@@ -1,0 +1,15 @@
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.AssemblyInfoInputs.cache
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.AssemblyInfo.cs
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.csproj.CoreCompileInputs.cache
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\slownik.exe
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\slownik.deps.json
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\slownik.runtimeconfig.json
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\slownik.runtimeconfig.dev.json
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\slownik.dll
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\ref\slownik.dll
+C:\Users\4C13\source\repos\slownik\slownik\bin\Debug\net5.0\slownik.pdb
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.dll
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\ref\slownik.dll
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.pdb
+C:\Users\4C13\source\repos\slownik\slownik\obj\Debug\net5.0\slownik.genruntimeconfig.cache

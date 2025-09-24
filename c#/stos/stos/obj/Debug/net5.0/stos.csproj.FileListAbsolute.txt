@@ -1,0 +1,16 @@
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\stos.exe
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\stos.deps.json
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\stos.runtimeconfig.json
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\stos.runtimeconfig.dev.json
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\stos.dll
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\ref\stos.dll
+C:\Users\4C13\source\repos\stos\stos\bin\Debug\net5.0\stos.pdb
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.csproj.AssemblyReference.cache
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.AssemblyInfoInputs.cache
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.AssemblyInfo.cs
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.csproj.CoreCompileInputs.cache
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.dll
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\ref\stos.dll
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.pdb
+C:\Users\4C13\source\repos\stos\stos\obj\Debug\net5.0\stos.genruntimeconfig.cache

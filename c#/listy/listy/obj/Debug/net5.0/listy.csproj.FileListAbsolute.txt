@@ -1,0 +1,15 @@
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\listy.exe
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\listy.deps.json
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\listy.runtimeconfig.json
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\listy.runtimeconfig.dev.json
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\listy.dll
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\ref\listy.dll
+C:\Users\4C13\source\repos\listy\listy\bin\Debug\net5.0\listy.pdb
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.AssemblyInfoInputs.cache
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.AssemblyInfo.cs
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.csproj.CoreCompileInputs.cache
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.dll
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\ref\listy.dll
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.pdb
+C:\Users\4C13\source\repos\listy\listy\obj\Debug\net5.0\listy.genruntimeconfig.cache

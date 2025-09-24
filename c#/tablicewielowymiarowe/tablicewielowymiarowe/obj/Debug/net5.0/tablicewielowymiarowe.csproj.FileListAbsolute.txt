@@ -1,0 +1,16 @@
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\tablicewielowymiarowe.exe
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\tablicewielowymiarowe.deps.json
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\tablicewielowymiarowe.runtimeconfig.json
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\tablicewielowymiarowe.runtimeconfig.dev.json
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\tablicewielowymiarowe.dll
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\ref\tablicewielowymiarowe.dll
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\bin\Debug\net5.0\tablicewielowymiarowe.pdb
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.csproj.AssemblyReference.cache
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.AssemblyInfoInputs.cache
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.AssemblyInfo.cs
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.csproj.CoreCompileInputs.cache
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.dll
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\ref\tablicewielowymiarowe.dll
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.pdb
+C:\Users\4C13\source\repos\tablicewielowymiarowe\tablicewielowymiarowe\obj\Debug\net5.0\tablicewielowymiarowe.genruntimeconfig.cache

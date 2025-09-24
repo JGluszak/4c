@@ -1,0 +1,16 @@
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\tablice13.3.exe
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\tablice13.3.deps.json
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\tablice13.3.runtimeconfig.json
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\tablice13.3.runtimeconfig.dev.json
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\tablice13.3.dll
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\ref\tablice13.3.dll
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\bin\Debug\net5.0\tablice13.3.pdb
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.csproj.AssemblyReference.cache
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.AssemblyInfoInputs.cache
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.AssemblyInfo.cs
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.csproj.CoreCompileInputs.cache
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.dll
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\ref\tablice13.3.dll
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.pdb
+C:\Users\4C13\source\repos\tablice13.3\tablice13.3\obj\Debug\net5.0\tablice13.3.genruntimeconfig.cache
