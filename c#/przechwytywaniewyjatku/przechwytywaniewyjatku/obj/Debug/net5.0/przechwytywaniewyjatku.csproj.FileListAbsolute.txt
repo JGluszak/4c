@@ -1,0 +1,16 @@
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\przechwytywaniewyjatku.exe
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\przechwytywaniewyjatku.deps.json
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\przechwytywaniewyjatku.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\przechwytywaniewyjatku.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\przechwytywaniewyjatku.dll
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\ref\przechwytywaniewyjatku.dll
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\bin\Debug\net5.0\przechwytywaniewyjatku.pdb
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.csproj.AssemblyReference.cache
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.dll
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\ref\przechwytywaniewyjatku.dll
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.pdb
+C:\Users\4C13\Desktop\4c\c#\przechwytywaniewyjatku\przechwytywaniewyjatku\obj\Debug\net5.0\przechwytywaniewyjatku.genruntimeconfig.cache
