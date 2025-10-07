@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink
+to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Najpopularniejsze dystrybucje systemu Linux</title>
+    <script>
+        function getSize() {
+            const w = document.documentElement.clientWidth;
+            const h = document.documentElement.clientHeight;
+            document.getElementById('wh').innerHTML = "Szerokość: " + w + "px Wysokość: " + h + "px";
+        }
+    </script>
+</head>
+
+<body onload="getSize()" onresize="getSize()">
+    <div class="container">
+        <div class="starter-template text-center py-5">
+            <h1>Najpopularniejsze dystrybucje systemu Linux</h1>
+            <p style="font-size: 24px" id="wh"></p>
+        </div>
+        <div class="linux row">
+            <div class="col-sm-6 col-md-4">
+                <a href="#"><img width="300px" height="200px" src="data:image/webp;base64,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" alt="Ubuntu"></a>
+                <p class="akapit">Ubuntu</p>
+                <p class="px-2 py-1 text-center">System oparty na dystrybucji
+                    Debian, przeznaczony do zastosowań
+                    biurowych, domowych i serwerowych. Według sondaży Ubuntu
+                    jest najczęściej instalowaną dystrybucją
+                    Linuxa na komputerach osobistych. </p>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a href="#"><img width="300px" height="200px" src="data:image/webp;base64,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" alt="Mint"></a>
+                <p class="akapit">Mint</p>
+                <p class="px-2 py-1 text-center">Dystrybucja systemu GNU/Linux
+                    oparta na Ubuntu oraz Debianie,
+                    skierowana do początkujących użytkowników. Prostota
+                    użytkowania, komplet zainstalowanych aplikacji,
+                    wsparcie to najważniejsze zalety systemu.</p>
+            </div>
+            <div class="col-sm-6 col-md-4"><a href="#">
+                <img width="300px" height="200px" src="https://imgs.search.brave.com/dQS0f5nUePEgxQTnfg42SAoKsndzynzmFbno_BlFMVs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQwMDU4/OTguanBn" alt="Kali"></a>
+                <p class="akapit">Kali</p>
+                <p class="px-2 py-1 text-center">Kali to system przeznaczony
+                    dla bardziej zaawansowanych użytkowników.
+                    Zawiera komplet narzędzi, które są wykorzystywane do
+                    przeprowadzania testów penetracyjnych, tj.
+                    bezpieczeństwa i łamania zabezpieczeń.</p>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/
+ bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3U
+ lb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+
+</html>
