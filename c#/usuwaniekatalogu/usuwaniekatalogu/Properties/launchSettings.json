@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "usuwaniekatalogu": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\TestowyKatalog  "
+    }
+  }
+}

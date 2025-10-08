@@ -1,0 +1,16 @@
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\tworzenieplikow.exe
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\tworzenieplikow.deps.json
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\tworzenieplikow.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\tworzenieplikow.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\tworzenieplikow.dll
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\ref\tworzenieplikow.dll
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\bin\Debug\net5.0\tworzenieplikow.pdb
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.csproj.AssemblyReference.cache
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.dll
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\ref\tworzenieplikow.dll
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.pdb
+C:\Users\4C13\Desktop\4c\c#\tworzenieplikow\tworzenieplikow\obj\Debug\net5.0\tworzenieplikow.genruntimeconfig.cache

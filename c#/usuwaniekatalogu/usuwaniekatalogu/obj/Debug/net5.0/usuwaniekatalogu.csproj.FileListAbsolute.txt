@@ -1,0 +1,16 @@
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\usuwaniekatalogu.exe
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\usuwaniekatalogu.deps.json
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\usuwaniekatalogu.runtimeconfig.json
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\usuwaniekatalogu.runtimeconfig.dev.json
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\usuwaniekatalogu.dll
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\ref\usuwaniekatalogu.dll
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\bin\Debug\net5.0\usuwaniekatalogu.pdb
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.csproj.AssemblyReference.cache
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.AssemblyInfoInputs.cache
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.AssemblyInfo.cs
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.csproj.CoreCompileInputs.cache
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.dll
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\ref\usuwaniekatalogu.dll
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.pdb
+C:\Users\4C13\Desktop\4c\c#\usuwaniekatalogu\usuwaniekatalogu\obj\Debug\net5.0\usuwaniekatalogu.genruntimeconfig.cache

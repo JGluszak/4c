@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tworzenieplikow": {
+      "commandName": "Project",
+      "commandLineArgs": "projektsadgaasdssad.txt"
+    }
+  }
+}
