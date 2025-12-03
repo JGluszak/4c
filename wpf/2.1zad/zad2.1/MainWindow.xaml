@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="137,88,0,0" VerticalAlignment="Top" Height="87" Width="163" FontWeight="Bold" FontSize="30" Click="BtnStart" Background="#FF00F3FF"  Foreground="Black" BorderBrush="Red" x:Name="btnStart"/>
+        <Button Content="Czas" HorizontalAlignment="Left" Margin="137,217,0,0" VerticalAlignment="Top" Height="94" Width="163" FontWeight="Bold" FontSize="30" MouseEnter="BtnCzasOn" x:Name="btnTime" MouseLeave="BtnCzasOff" Background="Black" Foreground="White"/>
+
+    </Grid>
+</Window>
